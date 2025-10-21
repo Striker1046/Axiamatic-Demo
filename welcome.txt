@@ -1,1 +1,3 @@
 welcome to Axiamatic!
+
+This project is being developed with Claude Code, an AI-powered development assistant that provides an intuitive web UI for software engineering tasks. Claude Code helps developers write, debug, and refactor code through natural language interactions, making the development process more efficient and collaborative. With its intelligent code understanding and generation capabilities, Claude Code streamlines the entire development workflow from initial concept to deployment.
